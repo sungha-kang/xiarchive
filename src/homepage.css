@@ -42,7 +42,7 @@ html, body {
     display: block;
 }
 
-/* Side information */
+/* Side Index */
 
 .side-info {
     position: fixed;
@@ -57,7 +57,7 @@ html, body {
 }
 
 .left-info h1 {
-    font-size: 60px;
+    font-size: 30px;
     font-weight: normal;
 }
 
@@ -71,7 +71,7 @@ html, body {
 }
 
 .right-info li {
-    font-size: 60px;
+    font-size: 30px;
     margin-bottom: 5px;
 }
 
