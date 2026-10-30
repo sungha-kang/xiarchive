@@ -30,8 +30,8 @@ html, body {
 
 .image-card {
     display: block;
-    width: 700px;
-    height: 700px;
+    width: 400px;
+    height: 400px;
     overflow: hidden;
 }
 
@@ -57,7 +57,7 @@ html, body {
 }
 
 .left-info h1 {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: normal;
 }
 
@@ -71,7 +71,7 @@ html, body {
 }
 
 .right-info li {
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 5px;
 }
 
